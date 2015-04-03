@@ -1,0 +1,9 @@
+C:\Users\curtwi2\Documents\iBalBackup5\bin\Release\iBalX.exe
+C:\Users\curtwi2\Documents\iBalBackup5\bin\Release\iBalX.pdb
+C:\Users\curtwi2\Documents\iBalBackup5\obj\Release\ResolveAssemblyReference.cache
+C:\Users\curtwi2\Documents\iBalBackup5\obj\Release\iBalBackup4.EditStateEntry.resources
+C:\Users\curtwi2\Documents\iBalBackup5\obj\Release\iBalX.Properties.Resources.resources
+C:\Users\curtwi2\Documents\iBalBackup5\obj\Release\iBalX.csproj.GenerateResource.Cache
+C:\Users\curtwi2\Documents\iBalBackup5\obj\Release\iBalX.exe
+C:\Users\curtwi2\Documents\iBalBackup5\obj\Release\iBalX.pdb
+C:\Users\curtwi2\Documents\iBalBackup5\obj\Release\omSupportBackup.Form1.resources

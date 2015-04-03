@@ -1,0 +1,16 @@
+C:\Documents and Settings\Dad\My Documents\Visual Studio 2008\Projects\iBalBackup4\bin\Release\iBalBackup4.exe
+C:\Documents and Settings\Dad\My Documents\Visual Studio 2008\Projects\iBalBackup4\bin\Release\iBalBackup4.pdb
+C:\Documents and Settings\Dad\My Documents\Visual Studio 2008\Projects\iBalBackup4\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dad\My Documents\Visual Studio 2008\Projects\iBalBackup4\obj\Release\iBalBKCheck.Form1.resources
+C:\Documents and Settings\Dad\My Documents\Visual Studio 2008\Projects\iBalBackup4\obj\Release\iBalBackup4.Properties.Resources.resources
+C:\Documents and Settings\Dad\My Documents\Visual Studio 2008\Projects\iBalBackup4\obj\Release\iBalBackup4.csproj.GenerateResource.Cache
+C:\Documents and Settings\Dad\My Documents\Visual Studio 2008\Projects\iBalBackup4\obj\Release\iBalBackup4.exe
+C:\Documents and Settings\Dad\My Documents\Visual Studio 2008\Projects\iBalBackup4\obj\Release\iBalBackup4.pdb
+C:\Program Files\Microsoft Visual Studio 9.0\VC#\CSharpProjects\iBalBackup4\bin\Release\iBalBackup4.exe
+C:\Program Files\Microsoft Visual Studio 9.0\VC#\CSharpProjects\iBalBackup4\bin\Release\iBalBackup4.pdb
+C:\Program Files\Microsoft Visual Studio 9.0\VC#\CSharpProjects\iBalBackup4\obj\Release\ResolveAssemblyReference.cache
+C:\Program Files\Microsoft Visual Studio 9.0\VC#\CSharpProjects\iBalBackup4\obj\Release\iBalBKCheck.Form1.resources
+C:\Program Files\Microsoft Visual Studio 9.0\VC#\CSharpProjects\iBalBackup4\obj\Release\iBalBackup4.Properties.Resources.resources
+C:\Program Files\Microsoft Visual Studio 9.0\VC#\CSharpProjects\iBalBackup4\obj\Release\iBalBackup4.csproj.GenerateResource.Cache
+C:\Program Files\Microsoft Visual Studio 9.0\VC#\CSharpProjects\iBalBackup4\obj\Release\iBalBackup4.exe
+C:\Program Files\Microsoft Visual Studio 9.0\VC#\CSharpProjects\iBalBackup4\obj\Release\iBalBackup4.pdb

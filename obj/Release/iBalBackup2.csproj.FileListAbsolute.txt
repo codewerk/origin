@@ -1,0 +1,4 @@
+C:\Documents and Settings\Dad\My Documents\Visual Studio 2008\Projects\iBalBackup2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dad\My Documents\Visual Studio 2008\Projects\iBalBackup2\obj\Release\iBalBKCheck.Form1.resources
+C:\Documents and Settings\Dad\My Documents\Visual Studio 2008\Projects\iBalBackup2\obj\Release\iBalBackup2.Properties.Resources.resources
+C:\Documents and Settings\Dad\My Documents\Visual Studio 2008\Projects\iBalBackup2\obj\Release\iBalBackup2.csproj.GenerateResource.Cache
